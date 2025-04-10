@@ -17,7 +17,7 @@ https://accidentalfactory.com/how-criminals-sell-drugs-online-tutorial/
 ## Server
 
 * Where to host? Lenny's server?
-* TLS/SSL: https://www.digicert.com/ssl-certificate-installation.html
+* TLS/SSL: https://www.digicert.com/ssl-certificate-installation.htm
 	* Where does the certificate come from? Self-signed?
 * Darknet hosting (doesn't need a certificate!): https://medium.com/@jasonrigden/how-to-host-a-site-on-the-dark-web-38edf00996bf
 
